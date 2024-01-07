@@ -1,0 +1,27 @@
+# https://x.com/_/status/1667971730092982273
+GET http://localhost:8000/videos/1667971730092982273
+X-Api-Key: H9zjnSlgrZyhbE2O5cko
+
+###
+GET http://localhost:8000/videos/1701702041150906516
+X-Api-Key: H9zjnSlgrZyhbE2O5cko
+
+###
+GET http://localhost:8000/videos/1701702112642498686
+X-Api-Key: H9zjnSlgrZyhbE2O5cko
+
+###
+GET http://localhost:8000/videos/1701365902309028253
+X-Api-Key: H9zjnSlgrZyhbE2O5cko
+
+###
+GET http://localhost:8000/videos/1700611679397052817
+X-Api-Key: H9zjnSlgrZyhbE2O5cko
+
+###
+GET http://localhost:8000/videos/1692264615739286002
+X-Api-Key: H9zjnSlgrZyhbE2O5cko
+
+###
+GET http://localhost:8000/videos/1737012932834160766
+X-Api-Key: H9zjnSlgrZyhbE2O5cko

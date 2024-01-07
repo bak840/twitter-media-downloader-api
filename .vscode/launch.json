@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "FastAPI with Poetry",
+      "type": "python",
+      "request": "launch",
+      "python": "${workspaceFolder}/.venv/Scripts/python.exe",
+      "cwd": "${workspaceFolder}",
+      "module": "uvicorn",
+      "args": ["main:app"],
+      "envFile": "${workspaceFolder}/.env",
+      "justMyCode": false,
+      "stopOnEntry": false
+    }
+  ]
+}
