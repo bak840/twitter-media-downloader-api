@@ -1,1 +1,1 @@
-poetry run uvicorn main:app --host 0.0.0.0 --ssl-keyfile="H:\Workspace\certs\bakinator-key.pem" --ssl-certfile="H:\Workspace\certs\bakinator.pem"
+poetry run uvicorn main:app --host 0.0.0.0

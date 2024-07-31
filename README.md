@@ -17,4 +17,6 @@ Build image:
 Run container:  
 `docker run -p 8000:8080 -it -e API_KEY=H9zjnSlgrZyhbE2O5cko tmd-webapi`
 
+`poetry run uvicorn main:app --host 0.0.0.0`
+
 `poetry run uvicorn main:app --host 0.0.0.0 --ssl-keyfile="H:\Workspace\certs\bakinator-key.pem" --ssl-certfile="H:\Workspace\certs\bakinator.pem"`
