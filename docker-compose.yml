@@ -1,0 +1,8 @@
+services:
+  webapi:
+    image: tmd-webapi
+    build: .
+    ports:
+      - 8000:8080
+    environment:
+      - API_KEY=H9zjnSlgrZyhbE2O5cko
